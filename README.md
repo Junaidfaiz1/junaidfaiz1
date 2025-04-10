@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Junaidfaiz1 👋
 
-<!--
-**Junaidfaiz1/junaidfaiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a developer passionate about web development
+- 🌱 I’m currently learning and Working as Mern Stack Developer.
+- 👯 I’m looking to collaborate on exciting open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:**  JavaScript, HTML, CSS, MySQL, MongoDB
+- **Frameworks & Libraries:**  React, Node & Express.js, Tailwind,& Shadcn, Material UI
+
+
+## 📫 Get in Touch
+- Email: junaidfaizpk5@gmail.com
+- LinkedIn: linkedin/in/junaid-faiz
+
+
+Feel free to explore my repositories and don’t hesitate to reach out if you’d like to collaborate!
