@@ -1,4 +1,4 @@
-# Hi there, I'm Junaidfaiz1 👋
+# Hi there, I'm Junaid Faiz 👋
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
